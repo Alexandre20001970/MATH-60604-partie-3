@@ -1,0 +1,1001 @@
+station,arrondissement,mm,dd,wday,dur
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,8,7,Monday,11.89470682
+Labadie / du Parc,Le Plateau-Mont-Royal,5,26,Friday,13.16070132
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,6,16,Friday,12.167238
+Boyer / St-Zotique,Rosemont - La Petite-Patrie,6,1,Thursday,13.30225733
+St-André / Rachel,Le Plateau-Mont-Royal,6,26,Monday,9.334737634
+de Grosbois / Duchesneau,Mercier - Hochelaga-Maisonneuve,5,18,Thursday,21.83219216
+Labadie / du Parc,Le Plateau-Mont-Royal,10,13,Friday,11.92209233
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,10,14,Saturday,12.00518958
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,9,7,Thursday,11.06719392
+de Mentana / Marie-Anne,Le Plateau-Mont-Royal,5,30,Tuesday,11.08829577
+Guizot / St-Denis,Villeray - Saint-Michel - Parc-Extension,10,25,Wednesday,16.1894813
+Labadie / du Parc,Le Plateau-Mont-Royal,6,20,Tuesday,11.61841163
+Grand Boulevard / de Terrebonne,Côte-des-Neiges - Notre-Dame-de-Grâce,10,8,Sunday,10.80764
+Hutchison / Van Horne,Le Plateau-Mont-Royal,8,2,Wednesday,14.35465134
+Wolfe / Robin,Ville-Marie,7,13,Thursday,9.627816333
+Dorion / Rachel,Le Plateau-Mont-Royal,9,15,Friday,13.78498824
+Plessis / Ontario,Ville-Marie,7,1,Saturday,12.45909347
+Ste-Catherine / Dezery,Mercier - Hochelaga-Maisonneuve,7,3,Monday,15.06191066
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,8,23,Wednesday,10.86895801
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,6,21,Wednesday,13.62290689
+Labadie / du Parc,Le Plateau-Mont-Royal,8,11,Friday,12.88100017
+Boyer / St-Zotique,Rosemont - La Petite-Patrie,5,22,Monday,12.55249811
+Quai de la navette fluviale,Ville-Marie,8,13,Sunday,34.52129804
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,5,28,Sunday,22.73355321
+de la Côte St-Antoine / Royal,Côte-des-Neiges - Notre-Dame-de-Grâce,5,25,Thursday,17.21007403
+Ann / Wellington,Le Sud-Ouest,8,21,Monday,13.58817139
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,6,1,Thursday,13.37452189
+Métro Bonaventure (de la Gauchetière / de la Cathédrale),Ville-Marie,9,3,Sunday,20.16709119
+Marché Jean-Talon (Henri-Julien / Jean-Talon),Rosemont - La Petite-Patrie,10,13,Friday,14.54961289
+Marché Jean-Talon (Henri-Julien / Jean-Talon),Rosemont - La Petite-Patrie,9,12,Tuesday,15.66682252
+du Havre / de Rouen,Ville-Marie,9,23,Saturday,14.18575243
+Léa-Roback / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,6,26,Monday,23.41202604
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,10,11,Wednesday,10.01615833
+Egan / Laurendeau,Le Sud-Ouest,8,5,Saturday,17.10300833
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,9,26,Tuesday,13.11960833
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,7,3,Monday,19.39080175
+Hochelaga / de l'Assomption,Mercier - Hochelaga-Maisonneuve,8,26,Saturday,29.48562955
+7e avenue / St-Joseph Rosemont,Rosemont - La Petite-Patrie,7,30,Sunday,15.94775952
+Marquette / Rachel,Le Plateau-Mont-Royal,7,21,Friday,12.84681333
+St-André / Rachel,Le Plateau-Mont-Royal,7,31,Monday,13.49055054
+Drolet / Marie-Anne,Le Plateau-Mont-Royal,7,1,Saturday,13.6020631
+Marquette / Rachel,Le Plateau-Mont-Royal,7,10,Monday,10.90197412
+de Grosbois / Duchesneau,Mercier - Hochelaga-Maisonneuve,7,27,Thursday,13.29281167
+Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,5,6,Saturday,11.21239917
+Hélène-Baillargeon / St-Denis,Le Plateau-Mont-Royal,7,15,Saturday,19.39978631
+de la Roche / Bélanger,Rosemont - La Petite-Patrie,9,10,Sunday,11.68388471
+de Rouen / Lespérance,Ville-Marie,6,22,Thursday,13.3313209
+Drolet / Marie-Anne,Le Plateau-Mont-Royal,5,13,Saturday,15.06503909
+Bourget / St-Jacques,Le Sud-Ouest,7,25,Tuesday,16.08730789
+du President-Kennedy / Union,Ville-Marie,5,18,Thursday,14.38562978
+de Rouen / Hogan,Ville-Marie,9,27,Wednesday,13.08508825
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,10,26,Thursday,11.25791485
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,8,24,Thursday,11.68879582
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,6,17,Saturday,11.35522935
+de Rouen / Lespérance,Ville-Marie,6,2,Friday,12.87623571
+Lacombe / Victoria,Côte-des-Neiges - Notre-Dame-de-Grâce,10,4,Wednesday,13.25080679
+de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,5,17,Wednesday,13.24524704
+de Rouen / Hogan,Ville-Marie,6,7,Wednesday,12.29269074
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,5,23,Tuesday,14.24702632
+Plessis / Ontario,Ville-Marie,9,14,Thursday,10.18336421
+Bercy / Rachel,Le Plateau-Mont-Royal,8,18,Friday,13.44640309
+Pontiac / Gilford,Le Plateau-Mont-Royal,7,8,Saturday,11.39765249
+Lajeunesse / de Liège,Villeray - Saint-Michel - Parc-Extension,7,30,Sunday,22.28750481
+de Grosbois / Duchesneau,Mercier - Hochelaga-Maisonneuve,9,4,Monday,10.62740667
+Milton / Durocher,Le Plateau-Mont-Royal,9,9,Saturday,13.62560658
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,9,26,Tuesday,15.12313849
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,8,22,Tuesday,14.61509464
+12e avenue / St-Zotique,Rosemont - La Petite-Patrie,8,19,Saturday,17.71668023
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,5,31,Wednesday,12.02501785
+Wolfe / Robin,Ville-Marie,10,26,Thursday,12.22202891
+5e avenue / Rosemont,Rosemont - La Petite-Patrie,8,30,Wednesday,15.3001
+Milton / du Parc,Le Plateau-Mont-Royal,9,29,Friday,9.403802849
+Plessis / Ontario,Ville-Marie,5,21,Sunday,11.59954237
+Larivière / de Lorimier,Ville-Marie,7,18,Tuesday,13.28438103
+Christophe-Colomb / St-Joseph,Le Plateau-Mont-Royal,10,5,Thursday,13.55766073
+de Rouen / Lespérance,Ville-Marie,7,26,Wednesday,10.99082646
+Pontiac / Gilford,Le Plateau-Mont-Royal,9,8,Friday,12.70907591
+Ste-Catherine / Dezery,Mercier - Hochelaga-Maisonneuve,7,27,Thursday,13.82481184
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,6,4,Sunday,13.32391976
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,8,19,Saturday,10.84077037
+Parc St-Paul (Le Caron / Marc-Sauvalle),Le Sud-Ouest,5,22,Monday,19.76368019
+de la Côte-Ste-Catherine / Decelles,Côte-des-Neiges - Notre-Dame-de-Grâce,7,25,Tuesday,14.62332596
+Guy / Sainte-Catherine,Ville-Marie,9,18,Monday,13.00218145
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,6,6,Tuesday,12.90144916
+de la Côte St-Antoine / Royal,Côte-des-Neiges - Notre-Dame-de-Grâce,10,2,Monday,14.26571542
+de Rouen / Hogan,Ville-Marie,10,24,Tuesday,13.0089982
+Du Quesne / de Marseille,Mercier - Hochelaga-Maisonneuve,7,19,Wednesday,18.73586
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,5,13,Saturday,12.81579286
+Egan / Laurendeau,Le Sud-Ouest,6,16,Friday,14.43492011
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,8,9,Wednesday,8.875950794
+Hamilton / Jolicoeur,Le Sud-Ouest,7,21,Friday,13.85341667
+Berri / Cherrier,Le Plateau-Mont-Royal,10,19,Thursday,10.449192
+Marquette / Rachel,Le Plateau-Mont-Royal,8,19,Saturday,13.21939522
+Christophe-Colomb / St-Joseph,Le Plateau-Mont-Royal,5,23,Tuesday,12.49422418
+Berri / Cherrier,Le Plateau-Mont-Royal,10,4,Wednesday,10.47803284
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,10,22,Sunday,9.42151954
+Hélène-Baillargeon / St-Denis,Le Plateau-Mont-Royal,7,7,Friday,13.57338879
+Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,8,3,Thursday,11.30301926
+du President-Kennedy / Union,Ville-Marie,8,10,Thursday,11.37404329
+Parc Plage,Ville-Marie,5,21,Sunday,39.73766217
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,5,16,Tuesday,16.24855625
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,10,10,Tuesday,9.039943056
+Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,5,13,Saturday,19.88043333
+de Bullion / St-Joseph,Le Plateau-Mont-Royal,5,21,Sunday,13.99855106
+Wolfe / Robin,Ville-Marie,8,23,Wednesday,13.96424551
+de Rouen / Hogan,Ville-Marie,9,29,Friday,12.57951774
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,9,22,Friday,15.43471916
+Marquette / Rachel,Le Plateau-Mont-Royal,8,9,Wednesday,12.51246473
+St-André / Rachel,Le Plateau-Mont-Royal,6,11,Sunday,13.90372483
+Boyer / St-Zotique,Rosemont - La Petite-Patrie,10,21,Saturday,9.977451667
+Egan / Laurendeau,Le Sud-Ouest,5,26,Friday,16.702245
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,5,22,Monday,14.95387616
+de la Roche / Bélanger,Rosemont - La Petite-Patrie,10,10,Tuesday,12.81355686
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,6,13,Tuesday,10.16151618
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,9,25,Monday,11.0666771
+Léa-Roback / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,6,11,Sunday,23.97796656
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,9,4,Monday,17.30660079
+du Havre / de Rouen,Ville-Marie,5,23,Tuesday,12.34507233
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,9,18,Monday,11.66658363
+de Kent / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,7,18,Tuesday,15.49319278
+Métro Bonaventure (de la Gauchetière / de la Cathédrale),Ville-Marie,9,26,Tuesday,10.3732986
+Labadie / du Parc,Le Plateau-Mont-Royal,6,1,Thursday,13.82226235
+Parc Plage,Ville-Marie,7,11,Tuesday,26.43225
+Parc St-Paul (Le Caron / Marc-Sauvalle),Le Sud-Ouest,9,11,Monday,16.0740478
+Grand Boulevard / de Terrebonne,Côte-des-Neiges - Notre-Dame-de-Grâce,6,28,Wednesday,14.66941207
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,8,30,Wednesday,9.917562524
+Vallières / St-Laurent,Le Plateau-Mont-Royal,7,25,Tuesday,13.51262695
+St-Urbain / de la Gauchetière,Ville-Marie,9,17,Sunday,20.2034211
+de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,5,16,Tuesday,13.14652908
+Guizot / St-Denis,Villeray - Saint-Michel - Parc-Extension,8,7,Monday,13.77605619
+Léa-Roback / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,10,18,Wednesday,16.97404149
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,9,4,Monday,18.86797683
+Gauthier / Papineau,Le Plateau-Mont-Royal,9,20,Wednesday,12.57142537
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,8,13,Sunday,15.86584545
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,10,30,Monday,9.488083816
+du President-Kennedy / Union,Ville-Marie,7,23,Sunday,15.01083228
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,7,7,Friday,13.31510848
+Plessis / Ontario,Ville-Marie,6,7,Wednesday,11.07433193
+de Bordeaux / Masson,Le Plateau-Mont-Royal,10,3,Tuesday,13.31802758
+Bercy / Rachel,Le Plateau-Mont-Royal,6,20,Tuesday,13.86850667
+de Rouen / Hogan,Ville-Marie,6,11,Sunday,16.03875481
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,8,30,Wednesday,10.19029005
+Richardson / Montmorency,Le Sud-Ouest,10,9,Monday,14.16009611
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,5,22,Monday,16.09110342
+de Mentana / Marie-Anne,Le Plateau-Mont-Royal,9,26,Tuesday,9.248098515
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,6,28,Wednesday,10.4280057
+Duluth  / St-Denis,Le Plateau-Mont-Royal,10,5,Thursday,12.57298488
+Richardson / Montmorency,Le Sud-Ouest,7,18,Tuesday,14.65711628
+Egan / Laurendeau,Le Sud-Ouest,10,31,Tuesday,12.60897083
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,7,13,Thursday,14.01142381
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,7,25,Tuesday,14.93348299
+Métro Bonaventure (de la Gauchetière / de la Cathédrale),Ville-Marie,7,15,Saturday,14.00978683
+Guizot / St-Denis,Villeray - Saint-Michel - Parc-Extension,5,21,Sunday,18.57448593
+Hamilton / Jolicoeur,Le Sud-Ouest,8,28,Monday,14.86303929
+Fortune / Wellington,Le Sud-Ouest,5,21,Sunday,16.33503509
+Fortune / Wellington,Le Sud-Ouest,6,7,Wednesday,10.65974826
+de la Côte-Ste-Catherine / Decelles,Côte-des-Neiges - Notre-Dame-de-Grâce,9,25,Monday,13.45478103
+de Bullion / St-Joseph,Le Plateau-Mont-Royal,7,5,Wednesday,12.02772907
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,8,30,Wednesday,9.943965152
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,6,21,Wednesday,21.37745317
+Pontiac / Gilford,Le Plateau-Mont-Royal,5,16,Tuesday,7.612453756
+Egan / Laurendeau,Le Sud-Ouest,8,7,Monday,14.36155595
+de Grosbois / Duchesneau,Mercier - Hochelaga-Maisonneuve,9,30,Saturday,7.491616667
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,9,21,Thursday,16.14767229
+12e avenue / St-Zotique,Rosemont - La Petite-Patrie,6,20,Tuesday,17.01769915
+de la Côte-Ste-Catherine / Decelles,Côte-des-Neiges - Notre-Dame-de-Grâce,5,14,Sunday,13.45713417
+Ann / Wellington,Le Sud-Ouest,6,4,Sunday,18.93394479
+Parc Plage,Ville-Marie,7,23,Sunday,24.96531082
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,9,16,Saturday,14.92347138
+Egan / Laurendeau,Le Sud-Ouest,9,20,Wednesday,16.27865833
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,9,27,Wednesday,12.35360263
+Pontiac / Gilford,Le Plateau-Mont-Royal,7,4,Tuesday,9.86925378
+Ste-Catherine / Dezery,Mercier - Hochelaga-Maisonneuve,10,27,Friday,14.37531814
+Lacombe / Victoria,Côte-des-Neiges - Notre-Dame-de-Grâce,8,24,Thursday,21.392982
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,6,15,Thursday,14.21697204
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,9,5,Tuesday,11.92165032
+Métro Jarry (Lajeunesse / Jarry),Villeray - Saint-Michel - Parc-Extension,7,14,Friday,12.6984786
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,9,6,Wednesday,12.86296185
+Parc St-Paul (Le Caron / Marc-Sauvalle),Le Sud-Ouest,9,24,Sunday,17.35714781
+Quai de la navette fluviale,Ville-Marie,7,21,Friday,32.28282569
+Drolet / Marie-Anne,Le Plateau-Mont-Royal,10,14,Saturday,10.39677947
+Rosemont / Viau,Rosemont - La Petite-Patrie,7,13,Thursday,14.13407207
+de Bullion / St-Joseph,Le Plateau-Mont-Royal,5,26,Friday,13.18986648
+Bercy / Rachel,Le Plateau-Mont-Royal,5,12,Friday,17.70150225
+du President-Kennedy / Union,Ville-Marie,6,7,Wednesday,11.79669888
+de Grosbois / Duchesneau,Mercier - Hochelaga-Maisonneuve,5,19,Friday,14.88838148
+Rosemont / Viau,Rosemont - La Petite-Patrie,5,22,Monday,25.66057778
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,9,25,Monday,15.39707188
+1ère  avenue / St-Zotique,Rosemont - La Petite-Patrie,8,20,Sunday,16.03002281
+Ste-Catherine / Dezery,Mercier - Hochelaga-Maisonneuve,6,17,Saturday,16.74790259
+Rosemont / Viau,Rosemont - La Petite-Patrie,10,27,Friday,18.34923551
+Rose-de-Lima / Workman,Le Sud-Ouest,10,27,Friday,18.15946828
+de Gaspé / St-Viateur,Le Plateau-Mont-Royal,7,10,Monday,9.562512037
+Milton / du Parc,Le Plateau-Mont-Royal,6,20,Tuesday,10.57704032
+Parc Plage,Ville-Marie,8,18,Friday,23.52301316
+Grey / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,10,5,Thursday,17.85512429
+Quai de la navette fluviale,Ville-Marie,7,5,Wednesday,25.47244286
+de Mentana / Marie-Anne,Le Plateau-Mont-Royal,6,5,Monday,11.57448664
+Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,8,31,Thursday,11.91358035
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,5,13,Saturday,14.64089855
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,10,25,Wednesday,21.1224
+Maguire / Henri-Julien,Le Plateau-Mont-Royal,9,7,Thursday,11.13330844
+Henri-Julien / de Bellechasse,Rosemont - La Petite-Patrie,10,21,Saturday,10.02711958
+de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,7,23,Sunday,14.11664702
+Fortune / Wellington,Le Sud-Ouest,7,26,Wednesday,12.30328937
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,6,5,Monday,13.01871532
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,10,10,Tuesday,9.893708216
+de Mentana / Marie-Anne,Le Plateau-Mont-Royal,6,2,Friday,13.08369854
+Pontiac / Gilford,Le Plateau-Mont-Royal,8,22,Tuesday,10.41567669
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,6,30,Friday,14.74477865
+Du Quesne / de Marseille,Mercier - Hochelaga-Maisonneuve,6,3,Saturday,22.67779265
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,10,1,Sunday,13.91106067
+de Bordeaux / Masson,Le Plateau-Mont-Royal,10,16,Monday,12.53399235
+Ann / Wellington,Le Sud-Ouest,5,10,Wednesday,14.71645154
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,8,2,Wednesday,13.67969103
+5e avenue / Rosemont,Rosemont - La Petite-Patrie,9,25,Monday,12.02390517
+d'Orléans / Masson,Rosemont - La Petite-Patrie,8,5,Saturday,16.62759787
+Lajeunesse / de Liège,Villeray - Saint-Michel - Parc-Extension,10,23,Monday,14.520966
+Hochelaga / de l'Assomption,Mercier - Hochelaga-Maisonneuve,5,17,Wednesday,15.80151746
+du President-Kennedy / Union,Ville-Marie,8,21,Monday,12.35363978
+de Kent / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,5,28,Sunday,16.79422973
+Grey / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,9,5,Tuesday,16.18630621
+de la Côte-Ste-Catherine / Decelles,Côte-des-Neiges - Notre-Dame-de-Grâce,8,22,Tuesday,16.32630652
+Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),Côte-des-Neiges - Notre-Dame-de-Grâce,8,19,Saturday,13.73195368
+Dorion / Rachel,Le Plateau-Mont-Royal,5,12,Friday,13.47299952
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,9,8,Friday,11.94468069
+Dorion / Rachel,Le Plateau-Mont-Royal,10,1,Sunday,14.989025
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,8,12,Saturday,22.78353333
+Lacombe / Victoria,Côte-des-Neiges - Notre-Dame-de-Grâce,5,26,Friday,26.13802778
+Lacombe / Victoria,Côte-des-Neiges - Notre-Dame-de-Grâce,6,10,Saturday,22.78907366
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,8,15,Tuesday,13.41405432
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,6,9,Friday,13.50786724
+Duluth  / St-Denis,Le Plateau-Mont-Royal,5,10,Wednesday,12.64586614
+de la Côte-Ste-Catherine / Decelles,Côte-des-Neiges - Notre-Dame-de-Grâce,7,29,Saturday,12.31161842
+Quai de la navette fluviale,Ville-Marie,8,30,Wednesday,49.122415
+Bourget / St-Jacques,Le Sud-Ouest,10,3,Tuesday,9.785622917
+Marquette / Rachel,Le Plateau-Mont-Royal,10,4,Wednesday,11.55663725
+Ann / Wellington,Le Sud-Ouest,6,5,Monday,13.60761597
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,8,25,Friday,12.73252674
+Metcalfe / de Maisonneuve,Ville-Marie,8,6,Sunday,19.16167813
+Duluth  / St-Denis,Le Plateau-Mont-Royal,10,25,Wednesday,10.9960474
+Métro Jarry (Lajeunesse / Jarry),Villeray - Saint-Michel - Parc-Extension,5,26,Friday,12.37520552
+Rosemont / Viau,Rosemont - La Petite-Patrie,8,17,Thursday,23.92975
+Fortune / Wellington,Le Sud-Ouest,10,3,Tuesday,13.10966751
+8e avenue / Everett,Villeray - Saint-Michel - Parc-Extension,9,14,Thursday,17.08183333
+du Mont-Royal / Augustin-Frigon,Rosemont - La Petite-Patrie,9,28,Thursday,12.27722401
+Boyer / St-Zotique,Rosemont - La Petite-Patrie,5,30,Tuesday,12.60696358
+Christophe-Colomb / St-Joseph,Le Plateau-Mont-Royal,7,13,Thursday,9.748673413
+Wilderton  / Van Horne,Côte-des-Neiges - Notre-Dame-de-Grâce,9,21,Thursday,12.46584818
+Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,10,23,Monday,10.51739287
+Fortune / Wellington,Le Sud-Ouest,7,11,Tuesday,13.16861558
+Milton / du Parc,Le Plateau-Mont-Royal,7,11,Tuesday,11.46476667
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,8,5,Saturday,11.25305831
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,6,3,Saturday,11.84238893
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,6,29,Thursday,10.38432481
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,7,18,Tuesday,17.53570775
+de Rouen / Hogan,Ville-Marie,5,28,Sunday,16.61585575
+de la Côte St-Antoine / Royal,Côte-des-Neiges - Notre-Dame-de-Grâce,7,28,Friday,16.6556261
+Bercy / Rachel,Le Plateau-Mont-Royal,8,11,Friday,13.55057439
+de Rouen / Hogan,Ville-Marie,6,4,Sunday,14.55855303
+Hélène-Baillargeon / St-Denis,Le Plateau-Mont-Royal,6,4,Sunday,11.39226952
+St-Urbain / de la Gauchetière,Ville-Marie,7,6,Thursday,18.29529112
+du Mont-Royal / Augustin-Frigon,Rosemont - La Petite-Patrie,6,8,Thursday,11.71833506
+Métro Rosemont (de St-Vallier / Rosemont),Rosemont - La Petite-Patrie,5,15,Monday,10.37486101
+Pontiac / Gilford,Le Plateau-Mont-Royal,7,7,Friday,10.64844832
+Larivière / de Lorimier,Ville-Marie,10,23,Monday,10.78741548
+Christophe-Colomb / St-Joseph,Le Plateau-Mont-Royal,8,10,Thursday,12.37169405
+Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,9,26,Tuesday,10.7603543
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,8,19,Saturday,12.55473038
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,5,15,Monday,14.79208735
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,5,14,Sunday,17.75735729
+Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),Côte-des-Neiges - Notre-Dame-de-Grâce,6,27,Tuesday,16.43684524
+Labadie / du Parc,Le Plateau-Mont-Royal,8,16,Wednesday,13.61964516
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,10,13,Friday,13.08892843
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,5,12,Friday,13.35500536
+Ann / Wellington,Le Sud-Ouest,6,26,Monday,11.20583069
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,9,30,Saturday,14.71693788
+Beaubien / 8e avenue,Rosemont - La Petite-Patrie,6,20,Tuesday,13.15609498
+Hélène-Baillargeon / St-Denis,Le Plateau-Mont-Royal,10,17,Tuesday,13.67382545
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,6,14,Wednesday,12.15791784
+du President-Kennedy / Union,Ville-Marie,9,23,Saturday,10.96646421
+12e avenue / St-Zotique,Rosemont - La Petite-Patrie,7,19,Wednesday,14.78209323
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,7,17,Monday,10.5645867
+12e avenue / St-Zotique,Rosemont - La Petite-Patrie,9,14,Thursday,13.24991808
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,6,15,Thursday,10.4140295
+Drolet / Marie-Anne,Le Plateau-Mont-Royal,9,19,Tuesday,10.96719043
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,6,25,Sunday,18.41589885
+du Mont-Royal / Augustin-Frigon,Rosemont - La Petite-Patrie,10,3,Tuesday,13.69151324
+Metcalfe / de Maisonneuve,Ville-Marie,10,20,Friday,12.20132843
+Union / René-Lévesque,Ville-Marie,9,19,Tuesday,12.63417519
+Rose-de-Lima / Workman,Le Sud-Ouest,9,12,Tuesday,11.64583967
+de la Côte St-Antoine / Royal,Côte-des-Neiges - Notre-Dame-de-Grâce,10,29,Sunday,11.63105
+Lacombe / Victoria,Côte-des-Neiges - Notre-Dame-de-Grâce,9,16,Saturday,15.95275463
+1ère  avenue / St-Zotique,Rosemont - La Petite-Patrie,7,20,Thursday,21.78749391
+Ann / Wellington,Le Sud-Ouest,8,4,Friday,13.96696587
+de Bullion / St-Joseph,Le Plateau-Mont-Royal,7,27,Thursday,10.07788679
+de Bordeaux / Masson,Le Plateau-Mont-Royal,7,3,Monday,12.87063953
+de Gaspé / St-Viateur,Le Plateau-Mont-Royal,10,6,Friday,10.68255529
+du Mont-Royal / Augustin-Frigon,Rosemont - La Petite-Patrie,9,4,Monday,13.26684798
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,6,30,Friday,12.66045696
+Fortune / Wellington,Le Sud-Ouest,7,20,Thursday,12.82166181
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,6,24,Saturday,15.77777022
+de la Roche / Bélanger,Rosemont - La Petite-Patrie,9,8,Friday,13.19751458
+Pontiac / Gilford,Le Plateau-Mont-Royal,8,19,Saturday,9.32383642
+5e avenue / Rosemont,Rosemont - La Petite-Patrie,8,17,Thursday,12.93587462
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,7,31,Monday,10.68266795
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,5,25,Thursday,12.80537237
+Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),Côte-des-Neiges - Notre-Dame-de-Grâce,8,27,Sunday,14.8510827
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,6,5,Monday,14.57780152
+du President-Kennedy / Union,Ville-Marie,8,18,Friday,13.54745022
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,6,5,Monday,13.50842428
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,7,22,Saturday,14.16320937
+Milton / Durocher,Le Plateau-Mont-Royal,6,18,Sunday,13.94918685
+du President-Kennedy / Union,Ville-Marie,8,7,Monday,11.96445417
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,7,27,Thursday,10.78306871
+Parc Plage,Ville-Marie,9,12,Tuesday,30.2762904
+Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),Côte-des-Neiges - Notre-Dame-de-Grâce,8,29,Tuesday,15.35588952
+Guizot / St-Denis,Villeray - Saint-Michel - Parc-Extension,9,10,Sunday,16.71808908
+Hochelaga / de l'Assomption,Mercier - Hochelaga-Maisonneuve,6,18,Sunday,30.93134286
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,8,14,Monday,23.88619608
+Milton / Durocher,Le Plateau-Mont-Royal,10,17,Tuesday,9.019259836
+Guy / Sainte-Catherine,Ville-Marie,8,17,Thursday,16.13724121
+Berri / Cherrier,Le Plateau-Mont-Royal,5,29,Monday,11.2476689
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,9,23,Saturday,15.77874433
+Milton / du Parc,Le Plateau-Mont-Royal,7,26,Wednesday,10.94626831
+Hochelaga / de l'Assomption,Mercier - Hochelaga-Maisonneuve,8,13,Sunday,14.85400778
+Quai de la navette fluviale,Ville-Marie,5,24,Wednesday,21.93484
+Rousselot / Jarry,Villeray - Saint-Michel - Parc-Extension,9,18,Monday,12.89635111
+Dorion / Rachel,Le Plateau-Mont-Royal,7,9,Sunday,14.19286716
+Métro Bonaventure (de la Gauchetière / de la Cathédrale),Ville-Marie,6,8,Thursday,11.26014189
+Henri-Julien / de Bellechasse,Rosemont - La Petite-Patrie,9,16,Saturday,13.12264074
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,5,15,Monday,12.69309463
+Parc Plage,Ville-Marie,9,2,Saturday,27.11816914
+de la Roche / Bélanger,Rosemont - La Petite-Patrie,9,9,Saturday,13.35468185
+Rose-de-Lima / Workman,Le Sud-Ouest,6,28,Wednesday,16.11438083
+Beaubien / 8e avenue,Rosemont - La Petite-Patrie,9,24,Sunday,12.51687654
+de Bullion / St-Joseph,Le Plateau-Mont-Royal,10,9,Monday,16.39555432
+de Gaspé / St-Viateur,Le Plateau-Mont-Royal,9,21,Thursday,12.95649137
+Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,9,17,Sunday,18.93098722
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,5,29,Monday,14.50403713
+du President-Kennedy / Union,Ville-Marie,7,27,Thursday,13.21627749
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,7,18,Tuesday,17.24032407
+Boyer / St-Zotique,Rosemont - La Petite-Patrie,9,10,Sunday,12.00258121
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,6,2,Friday,11.27957145
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,10,5,Thursday,12.94876117
+Léa-Roback / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,10,22,Sunday,12.39534881
+Richardson / Montmorency,Le Sud-Ouest,9,11,Monday,14.95690861
+Rousselot / Jarry,Villeray - Saint-Michel - Parc-Extension,10,28,Saturday,14.54710333
+de Rouen / Hogan,Ville-Marie,10,16,Monday,11.73376303
+Dorion / Rachel,Le Plateau-Mont-Royal,6,20,Tuesday,12.91679054
+Richardson / Montmorency,Le Sud-Ouest,7,13,Thursday,13.55701325
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,10,13,Friday,14.42431266
+de la Montagne / Sherbrooke,Ville-Marie,5,22,Monday,13.82327047
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,9,11,Monday,13.56490291
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,9,29,Friday,16.67491842
+Parc St-Paul (Le Caron / Marc-Sauvalle),Le Sud-Ouest,10,3,Tuesday,13.50527589
+Milton / du Parc,Le Plateau-Mont-Royal,6,4,Sunday,11.62005695
+du President-Kennedy / Union,Ville-Marie,10,26,Thursday,11.19712096
+Parc Plage,Ville-Marie,5,20,Saturday,26.57722125
+de Kent / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,7,30,Sunday,16.89228093
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,8,6,Sunday,14.22685669
+Métro Bonaventure (de la Gauchetière / de la Cathédrale),Ville-Marie,9,7,Thursday,11.8541555
+Métro Rosemont (de St-Vallier / Rosemont),Rosemont - La Petite-Patrie,9,22,Friday,12.7407152
+de Grosbois / Duchesneau,Mercier - Hochelaga-Maisonneuve,7,29,Saturday,6.934395238
+Hochelaga / de l'Assomption,Mercier - Hochelaga-Maisonneuve,5,15,Monday,29.18309467
+Union / René-Lévesque,Ville-Marie,6,29,Thursday,11.09354298
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,6,13,Tuesday,9.763860274
+Ann / Wellington,Le Sud-Ouest,8,20,Sunday,14.19700652
+Ann / Wellington,Le Sud-Ouest,5,17,Wednesday,12.77409532
+Ann / Wellington,Le Sud-Ouest,10,30,Monday,11.2765787
+Bourget / St-Jacques,Le Sud-Ouest,6,25,Sunday,13.72115926
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,6,2,Friday,13.71403487
+de Mentana / Marie-Anne,Le Plateau-Mont-Royal,8,13,Sunday,14.44836296
+Bercy / Rachel,Le Plateau-Mont-Royal,6,28,Wednesday,11.84850128
+Drolet / Marie-Anne,Le Plateau-Mont-Royal,10,22,Sunday,8.701497268
+12e avenue / St-Zotique,Rosemont - La Petite-Patrie,8,3,Thursday,17.48445104
+Guy / Sainte-Catherine,Ville-Marie,9,15,Friday,12.78071556
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,9,25,Monday,9.794793704
+St-Urbain / de la Gauchetière,Ville-Marie,9,11,Monday,17.01364283
+Ann / Wellington,Le Sud-Ouest,9,29,Friday,17.59099
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,6,20,Tuesday,16.2984044
+8e avenue / Everett,Villeray - Saint-Michel - Parc-Extension,9,12,Tuesday,22.55889167
+de Grosbois / Duchesneau,Mercier - Hochelaga-Maisonneuve,5,22,Monday,25.04683796
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,5,8,Monday,11.99064245
+Henri-Julien / de Bellechasse,Rosemont - La Petite-Patrie,9,28,Thursday,11.43896966
+Lacombe / Victoria,Côte-des-Neiges - Notre-Dame-de-Grâce,7,26,Wednesday,23.99147549
+Quai de la navette fluviale,Ville-Marie,6,30,Friday,36.54195041
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,6,12,Monday,11.98735833
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,9,6,Wednesday,13.63795955
+Christophe-Colomb / St-Joseph,Le Plateau-Mont-Royal,6,8,Thursday,10.80839348
+Drolet / Marie-Anne,Le Plateau-Mont-Royal,5,14,Sunday,13.9401484
+Wolfe / Robin,Ville-Marie,9,4,Monday,12.56278292
+Gauthier / Papineau,Le Plateau-Mont-Royal,5,5,Friday,12.34459052
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,6,24,Saturday,11.76280139
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,5,10,Wednesday,16.39906081
+Berri / Cherrier,Le Plateau-Mont-Royal,8,23,Wednesday,10.5376729
+de la Montagne / Sherbrooke,Ville-Marie,10,10,Tuesday,11.48052649
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,8,28,Monday,13.91111756
+de Mentana / Marie-Anne,Le Plateau-Mont-Royal,7,24,Monday,11.53626172
+Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),Côte-des-Neiges - Notre-Dame-de-Grâce,7,23,Sunday,14.64575906
+Dorion / Rachel,Le Plateau-Mont-Royal,5,27,Saturday,12.21698516
+de Bordeaux / Masson,Le Plateau-Mont-Royal,6,19,Monday,14.32350502
+Rousselot / Jarry,Villeray - Saint-Michel - Parc-Extension,8,13,Sunday,16.02455977
+de Mentana / Marie-Anne,Le Plateau-Mont-Royal,6,3,Saturday,9.822093836
+de Bullion / St-Joseph,Le Plateau-Mont-Royal,5,14,Sunday,12.37772882
+Hochelaga / de l'Assomption,Mercier - Hochelaga-Maisonneuve,6,3,Saturday,30.41523627
+Hélène-Baillargeon / St-Denis,Le Plateau-Mont-Royal,8,4,Friday,12.12426703
+Egan / Laurendeau,Le Sud-Ouest,10,15,Sunday,13.14122
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,6,19,Monday,11.89374536
+Quai de la navette fluviale,Ville-Marie,6,13,Tuesday,23.69296026
+Wilderton  / Van Horne,Côte-des-Neiges - Notre-Dame-de-Grâce,9,3,Sunday,14.48318653
+Rosemont / Viau,Rosemont - La Petite-Patrie,10,17,Tuesday,13.95822667
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,7,7,Friday,25.2162425
+Metcalfe / de Maisonneuve,Ville-Marie,8,16,Wednesday,13.32668301
+Gauthier / Papineau,Le Plateau-Mont-Royal,8,13,Sunday,13.21283469
+de Bordeaux / Masson,Le Plateau-Mont-Royal,8,5,Saturday,13.1603512
+Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,5,20,Saturday,15.453528
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,10,10,Tuesday,10.46488929
+de Gaspé / St-Viateur,Le Plateau-Mont-Royal,10,14,Saturday,11.12297868
+Plessis / Ontario,Ville-Marie,6,19,Monday,10.55523007
+Gauthier / Papineau,Le Plateau-Mont-Royal,7,9,Sunday,14.91320569
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,7,30,Sunday,16.8818805
+Rousselot / Jarry,Villeray - Saint-Michel - Parc-Extension,5,4,Thursday,12.97687833
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,6,9,Friday,16.38033235
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,5,2,Tuesday,10.48429494
+Milton / Durocher,Le Plateau-Mont-Royal,10,23,Monday,8.856263763
+de Bullion / St-Joseph,Le Plateau-Mont-Royal,10,14,Saturday,11.06622995
+Beaubien / 8e avenue,Rosemont - La Petite-Patrie,5,15,Monday,12.82186228
+1ère  avenue / St-Zotique,Rosemont - La Petite-Patrie,7,5,Wednesday,14.32148023
+Fortune / Wellington,Le Sud-Ouest,5,2,Tuesday,12.76465407
+8e avenue / Everett,Villeray - Saint-Michel - Parc-Extension,5,9,Tuesday,18.6382
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,7,22,Saturday,14.12971531
+Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,9,14,Thursday,14.22969963
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,6,2,Friday,13.43753039
+de Gaspé / St-Viateur,Le Plateau-Mont-Royal,8,18,Friday,11.29289967
+Métro Rosemont (de St-Vallier / Rosemont),Rosemont - La Petite-Patrie,8,27,Sunday,11.60126989
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,10,6,Friday,10.83173058
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,9,23,Saturday,15.49952909
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,10,17,Tuesday,10.37298232
+12e avenue / St-Zotique,Rosemont - La Petite-Patrie,10,5,Thursday,15.29099767
+Parc Plage,Ville-Marie,9,17,Sunday,30.544845
+Grand Boulevard / de Terrebonne,Côte-des-Neiges - Notre-Dame-de-Grâce,8,2,Wednesday,15.35640253
+Hochelaga / de l'Assomption,Mercier - Hochelaga-Maisonneuve,6,28,Wednesday,14.00863077
+du Mont-Royal / Augustin-Frigon,Rosemont - La Petite-Patrie,10,9,Monday,11.38937374
+Métro Jarry (Lajeunesse / Jarry),Villeray - Saint-Michel - Parc-Extension,7,5,Wednesday,12.88559968
+Bourget / St-Jacques,Le Sud-Ouest,5,22,Monday,11.45598182
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,9,27,Wednesday,12.71262143
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,7,5,Wednesday,17.44572674
+Milton / Durocher,Le Plateau-Mont-Royal,6,19,Monday,11.65336335
+Ste-Catherine / Dezery,Mercier - Hochelaga-Maisonneuve,8,21,Monday,13.64650076
+Plessis / Ontario,Ville-Marie,8,16,Wednesday,11.80611954
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,9,3,Sunday,16.29231581
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,6,29,Thursday,12.23215641
+Berri / Cherrier,Le Plateau-Mont-Royal,9,24,Sunday,14.46430252
+Pontiac / Gilford,Le Plateau-Mont-Royal,5,5,Friday,9.479744444
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,8,8,Tuesday,21.74764931
+Ann / Wellington,Le Sud-Ouest,6,6,Tuesday,15.95262055
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,5,30,Tuesday,12.87584624
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,6,19,Monday,13.61525121
+Metcalfe / de Maisonneuve,Ville-Marie,6,20,Tuesday,14.77262737
+Fortune / Wellington,Le Sud-Ouest,10,25,Wednesday,11.93379375
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,9,7,Thursday,11.17419974
+Métro Bonaventure (de la Gauchetière / de la Cathédrale),Ville-Marie,5,11,Thursday,11.76721788
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,8,23,Wednesday,14.05594583
+Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,5,14,Sunday,15.67240985
+Henri-Julien / de Bellechasse,Rosemont - La Petite-Patrie,7,31,Monday,15.12649969
+Grey / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,10,12,Thursday,14.83913272
+Berri / Cherrier,Le Plateau-Mont-Royal,10,23,Monday,9.424580912
+Marché Jean-Talon (Henri-Julien / Jean-Talon),Rosemont - La Petite-Patrie,6,23,Friday,16.2262182
+Union / René-Lévesque,Ville-Marie,8,15,Tuesday,13.3811957
+de Gaspé / St-Viateur,Le Plateau-Mont-Royal,7,3,Monday,11.42936426
+Labadie / du Parc,Le Plateau-Mont-Royal,6,16,Friday,13.39528842
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,8,23,Wednesday,14.70894124
+7e avenue / St-Joseph Rosemont,Rosemont - La Petite-Patrie,5,14,Sunday,16.01740625
+Wolfe / Robin,Ville-Marie,8,14,Monday,10.56131491
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,6,27,Tuesday,10.25824917
+de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,8,22,Tuesday,13.97537704
+Vallières / St-Laurent,Le Plateau-Mont-Royal,9,26,Tuesday,10.82330473
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,9,9,Saturday,12.16293556
+d'Orléans / Masson,Rosemont - La Petite-Patrie,5,20,Saturday,16.73434157
+de Mentana / Marie-Anne,Le Plateau-Mont-Royal,8,4,Friday,11.08085542
+St-Urbain / de la Gauchetière,Ville-Marie,7,11,Tuesday,20.10163524
+Richardson / Montmorency,Le Sud-Ouest,5,20,Saturday,16.13813226
+Lacombe / Victoria,Côte-des-Neiges - Notre-Dame-de-Grâce,10,17,Tuesday,16.67373222
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,7,4,Tuesday,13.1767739
+Hutchison / Van Horne,Le Plateau-Mont-Royal,8,12,Saturday,13.50979639
+Beaubien / 8e avenue,Rosemont - La Petite-Patrie,9,8,Friday,14.04375096
+Guy / Sainte-Catherine,Ville-Marie,10,28,Saturday,13.15037511
+Molson / Beaubien,Rosemont - La Petite-Patrie,7,15,Saturday,15.68489292
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,9,21,Thursday,11.36997428
+Berri / Cherrier,Le Plateau-Mont-Royal,7,21,Friday,11.14197967
+Bourget / St-Jacques,Le Sud-Ouest,8,8,Tuesday,14.08710492
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,9,27,Wednesday,14.00633016
+de Gaspé / St-Viateur,Le Plateau-Mont-Royal,8,28,Monday,11.2770543
+de Bullion / St-Joseph,Le Plateau-Mont-Royal,7,20,Thursday,11.26263955
+Milton / du Parc,Le Plateau-Mont-Royal,7,2,Sunday,13.26562959
+Metcalfe / de Maisonneuve,Ville-Marie,6,21,Wednesday,16.881548
+Lacombe / Victoria,Côte-des-Neiges - Notre-Dame-de-Grâce,8,25,Friday,18.36186944
+Richardson / Montmorency,Le Sud-Ouest,6,17,Saturday,14.23433478
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,7,8,Saturday,16.58176667
+Bercy / Rachel,Le Plateau-Mont-Royal,6,16,Friday,11.68523474
+1ère  avenue / St-Zotique,Rosemont - La Petite-Patrie,8,22,Tuesday,14.5254234
+de Rouen / Hogan,Ville-Marie,10,21,Saturday,10.87283846
+Hamilton / Jolicoeur,Le Sud-Ouest,8,19,Saturday,11.45662469
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,5,4,Thursday,12.03051587
+Larivière / de Lorimier,Ville-Marie,8,22,Tuesday,12.63273783
+1ère  avenue / St-Zotique,Rosemont - La Petite-Patrie,8,26,Saturday,12.17775306
+Lajeunesse / de Liège,Villeray - Saint-Michel - Parc-Extension,9,23,Saturday,17.41954684
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,9,2,Saturday,12.06485217
+du Havre / de Rouen,Ville-Marie,10,5,Thursday,13.88253068
+Richardson / Montmorency,Le Sud-Ouest,5,19,Friday,15.14616706
+Ann / Wellington,Le Sud-Ouest,10,7,Saturday,8.703736667
+St-Urbain / de la Gauchetière,Ville-Marie,5,20,Saturday,16.98464387
+Parc Plage,Ville-Marie,8,14,Monday,30.31359095
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,5,2,Tuesday,10.49998083
+Duluth  / St-Denis,Le Plateau-Mont-Royal,9,6,Wednesday,11.59345171
+du Mont-Royal / Augustin-Frigon,Rosemont - La Petite-Patrie,8,4,Friday,15.9025812
+Hutchison / Van Horne,Le Plateau-Mont-Royal,7,28,Friday,13.72946353
+Ann / Wellington,Le Sud-Ouest,10,26,Thursday,11.57898167
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,5,26,Friday,16.09179233
+5e avenue / Rosemont,Rosemont - La Petite-Patrie,9,29,Friday,11.49188535
+Parc Plage,Ville-Marie,5,28,Sunday,26.39720521
+Union / René-Lévesque,Ville-Marie,7,11,Tuesday,14.97934318
+1ère  avenue / St-Zotique,Rosemont - La Petite-Patrie,10,16,Monday,14.52487048
+de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,10,5,Thursday,18.20410015
+Ann / Wellington,Le Sud-Ouest,8,6,Sunday,19.63535119
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,8,8,Tuesday,12.41295833
+Fortune / Wellington,Le Sud-Ouest,6,8,Thursday,10.53032753
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,6,8,Thursday,11.65630451
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,8,30,Wednesday,12.60109633
+Hutchison / Van Horne,Le Plateau-Mont-Royal,9,6,Wednesday,16.01851802
+de la Montagne / Sherbrooke,Ville-Marie,8,12,Saturday,14.21208821
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,5,17,Wednesday,19.13944444
+8e avenue / Everett,Villeray - Saint-Michel - Parc-Extension,6,19,Monday,23.9492825
+de la Côte-Ste-Catherine / Decelles,Côte-des-Neiges - Notre-Dame-de-Grâce,7,20,Thursday,19.12030679
+Hutchison / Van Horne,Le Plateau-Mont-Royal,5,4,Thursday,13.56602813
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,8,13,Sunday,14.87065174
+Larivière / de Lorimier,Ville-Marie,9,21,Thursday,11.68629294
+Léa-Roback / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,8,19,Saturday,19.38044817
+Dorion / Rachel,Le Plateau-Mont-Royal,9,16,Saturday,12.82540675
+St-Urbain / de la Gauchetière,Ville-Marie,10,20,Friday,16.46077158
+Rosemont / Viau,Rosemont - La Petite-Patrie,6,18,Sunday,28.12023083
+Quai de la navette fluviale,Ville-Marie,5,14,Sunday,32.9643306
+St-André / Rachel,Le Plateau-Mont-Royal,9,22,Friday,13.36292377
+de Bordeaux / Masson,Le Plateau-Mont-Royal,6,30,Friday,15.79859954
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,10,25,Wednesday,18.577295
+Métro Jarry (Lajeunesse / Jarry),Villeray - Saint-Michel - Parc-Extension,8,12,Saturday,12.45945155
+Molson / Beaubien,Rosemont - La Petite-Patrie,5,11,Thursday,14.26409
+Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,7,16,Sunday,16.45653448
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,7,23,Sunday,13.74975985
+Rousselot / Jarry,Villeray - Saint-Michel - Parc-Extension,10,7,Saturday,12.77609487
+Pontiac / Gilford,Le Plateau-Mont-Royal,7,13,Thursday,10.67049167
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,5,27,Saturday,14.87869259
+Molson / Beaubien,Rosemont - La Petite-Patrie,9,7,Thursday,13.87275095
+Hutchison / Van Horne,Le Plateau-Mont-Royal,10,27,Friday,15.23598438
+Hochelaga / de l'Assomption,Mercier - Hochelaga-Maisonneuve,7,8,Saturday,19.433475
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,5,14,Sunday,17.46182738
+Wilderton  / Van Horne,Côte-des-Neiges - Notre-Dame-de-Grâce,8,6,Sunday,15.58403939
+de la Côte St-Antoine / Royal,Côte-des-Neiges - Notre-Dame-de-Grâce,10,27,Friday,12.77839655
+Ann / Wellington,Le Sud-Ouest,6,16,Friday,11.68251965
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,5,10,Wednesday,14.31044167
+Dorion / Rachel,Le Plateau-Mont-Royal,8,22,Tuesday,13.45870862
+de la Montagne / Sherbrooke,Ville-Marie,10,9,Monday,11.45282807
+Parc Plage,Ville-Marie,10,18,Wednesday,19.30333333
+Labadie / du Parc,Le Plateau-Mont-Royal,9,13,Wednesday,12.42140516
+de Bordeaux / Masson,Le Plateau-Mont-Royal,8,17,Thursday,13.94154891
+Métro Rosemont (de St-Vallier / Rosemont),Rosemont - La Petite-Patrie,9,21,Thursday,10.0206
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,8,28,Monday,20.16463596
+Pontiac / Gilford,Le Plateau-Mont-Royal,5,27,Saturday,11.69747998
+d'Orléans / Masson,Rosemont - La Petite-Patrie,10,19,Thursday,13.78598882
+Richardson / Montmorency,Le Sud-Ouest,9,1,Friday,15.51129754
+Richardson / Montmorency,Le Sud-Ouest,9,6,Wednesday,11.42057763
+Milton / du Parc,Le Plateau-Mont-Royal,7,8,Saturday,13.25949804
+Léa-Roback / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,8,1,Tuesday,20.11485866
+Rousselot / Jarry,Villeray - Saint-Michel - Parc-Extension,6,26,Monday,13.92837424
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,6,13,Tuesday,15.40845381
+Bercy / Rachel,Le Plateau-Mont-Royal,6,19,Monday,12.05813881
+Drolet / Marie-Anne,Le Plateau-Mont-Royal,7,13,Thursday,12.55421898
+Egan / Laurendeau,Le Sud-Ouest,5,4,Thursday,26.15866905
+St-André / Rachel,Le Plateau-Mont-Royal,10,27,Friday,10.84614864
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,7,21,Friday,12.57034225
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,7,31,Monday,18.47113827
+Richardson / Montmorency,Le Sud-Ouest,5,27,Saturday,17.8041078
+Marquette / Rachel,Le Plateau-Mont-Royal,5,23,Tuesday,12.19763349
+Bourget / St-Jacques,Le Sud-Ouest,7,19,Wednesday,11.37674368
+Fortune / Wellington,Le Sud-Ouest,8,5,Saturday,16.73504304
+Larivière / de Lorimier,Ville-Marie,8,30,Wednesday,10.55498897
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,7,11,Tuesday,14.468736
+d'Orléans / Masson,Rosemont - La Petite-Patrie,7,26,Wednesday,14.97434314
+8e avenue / Everett,Villeray - Saint-Michel - Parc-Extension,7,2,Sunday,21.33632778
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,10,5,Thursday,11.783135
+Grey / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,5,5,Friday,17.04840458
+de la Montagne / Sherbrooke,Ville-Marie,5,13,Saturday,13.9482188
+Duluth  / St-Denis,Le Plateau-Mont-Royal,7,22,Saturday,13.90040339
+Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),Côte-des-Neiges - Notre-Dame-de-Grâce,5,22,Monday,15.54049827
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,7,23,Sunday,14.96157991
+7e avenue / St-Joseph Rosemont,Rosemont - La Petite-Patrie,10,26,Thursday,12.48483152
+Parc St-Paul (Le Caron / Marc-Sauvalle),Le Sud-Ouest,6,5,Monday,14.53355957
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,5,14,Sunday,13.12777208
+de la Côte-Ste-Catherine / Decelles,Côte-des-Neiges - Notre-Dame-de-Grâce,5,4,Thursday,12.62617722
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,10,19,Thursday,10.27795849
+St-André / Rachel,Le Plateau-Mont-Royal,6,10,Saturday,14.59420867
+Drolet / Marie-Anne,Le Plateau-Mont-Royal,10,9,Monday,8.852419492
+du Mont-Royal / Augustin-Frigon,Rosemont - La Petite-Patrie,7,29,Saturday,13.01670023
+Union / René-Lévesque,Ville-Marie,8,4,Friday,11.98859128
+Richardson / Montmorency,Le Sud-Ouest,7,24,Monday,14.80222014
+Guy / Sainte-Catherine,Ville-Marie,9,23,Saturday,13.2100593
+de la Roche / Bélanger,Rosemont - La Petite-Patrie,6,22,Thursday,14.9015148
+Bercy / Rachel,Le Plateau-Mont-Royal,8,20,Sunday,13.86747449
+de Bordeaux / Masson,Le Plateau-Mont-Royal,6,15,Thursday,14.40258872
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,6,12,Monday,10.24347857
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,7,24,Monday,17.56344444
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,6,11,Sunday,16.36403182
+Drolet / Marie-Anne,Le Plateau-Mont-Royal,9,29,Friday,12.60447286
+Guy / Sainte-Catherine,Ville-Marie,9,4,Monday,15.84560528
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,8,21,Monday,12.28512835
+Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,10,15,Sunday,20.01640667
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,7,17,Monday,10.1716522
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,10,9,Monday,11.98940867
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,7,13,Thursday,10.09332613
+Grey / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,9,6,Wednesday,14.33370676
+Hélène-Baillargeon / St-Denis,Le Plateau-Mont-Royal,10,11,Wednesday,13.01569352
+Parc St-Paul (Le Caron / Marc-Sauvalle),Le Sud-Ouest,5,2,Tuesday,12.72298286
+du President-Kennedy / Union,Ville-Marie,5,25,Thursday,13.81991417
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,7,28,Friday,16.28682387
+Molson / Beaubien,Rosemont - La Petite-Patrie,9,27,Wednesday,16.0155179
+Bourget / St-Jacques,Le Sud-Ouest,5,18,Thursday,14.05627095
+de la Côte-Ste-Catherine / Decelles,Côte-des-Neiges - Notre-Dame-de-Grâce,7,24,Monday,16.1855047
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,6,15,Thursday,17.92499673
+Guy / Sainte-Catherine,Ville-Marie,6,3,Saturday,16.82713534
+Richardson / Montmorency,Le Sud-Ouest,9,25,Monday,13.29660679
+Beaubien / 8e avenue,Rosemont - La Petite-Patrie,8,29,Tuesday,14.72528458
+1ère  avenue / St-Zotique,Rosemont - La Petite-Patrie,8,18,Friday,14.20076629
+Hutchison / Van Horne,Le Plateau-Mont-Royal,5,27,Saturday,14.79134236
+Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,6,30,Friday,13.25930208
+Pontiac / Gilford,Le Plateau-Mont-Royal,5,8,Monday,10.19518463
+Milton / du Parc,Le Plateau-Mont-Royal,5,8,Monday,11.59109367
+Christophe-Colomb / St-Joseph,Le Plateau-Mont-Royal,5,12,Friday,9.655590196
+Lajeunesse / de Liège,Villeray - Saint-Michel - Parc-Extension,6,11,Sunday,16.38044183
+12e avenue / St-Zotique,Rosemont - La Petite-Patrie,6,28,Wednesday,12.91134495
+de la Roche / Bélanger,Rosemont - La Petite-Patrie,8,7,Monday,13.7779337
+de la Côte St-Antoine / Royal,Côte-des-Neiges - Notre-Dame-de-Grâce,5,3,Wednesday,12.16875873
+Gauthier / Papineau,Le Plateau-Mont-Royal,7,21,Friday,13.69622685
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,9,2,Saturday,19.59495513
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,5,28,Sunday,20.07317937
+Du Quesne / de Marseille,Mercier - Hochelaga-Maisonneuve,6,18,Sunday,13.3357925
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,9,7,Thursday,12.04451942
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,9,22,Friday,11.94828824
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,9,13,Wednesday,11.05462009
+Metcalfe / de Maisonneuve,Ville-Marie,5,25,Thursday,14.43208075
+Plessis / Ontario,Ville-Marie,9,27,Wednesday,12.79970909
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,9,12,Tuesday,14.87068733
+Bercy / Rachel,Le Plateau-Mont-Royal,5,3,Wednesday,11.85077083
+de Gaspé / St-Viateur,Le Plateau-Mont-Royal,7,15,Saturday,14.843971
+Métro Rosemont (de St-Vallier / Rosemont),Rosemont - La Petite-Patrie,7,2,Sunday,11.18427374
+Bourget / St-Jacques,Le Sud-Ouest,9,19,Tuesday,9.029892754
+Wilderton  / Van Horne,Côte-des-Neiges - Notre-Dame-de-Grâce,5,14,Sunday,15.93916011
+Parc St-Paul (Le Caron / Marc-Sauvalle),Le Sud-Ouest,6,7,Wednesday,13.79597862
+5e avenue / Rosemont,Rosemont - La Petite-Patrie,9,30,Saturday,18.5446125
+Milton / du Parc,Le Plateau-Mont-Royal,5,28,Sunday,14.56411803
+Grand Boulevard / de Terrebonne,Côte-des-Neiges - Notre-Dame-de-Grâce,5,12,Friday,19.06449659
+Larivière / de Lorimier,Ville-Marie,8,11,Friday,14.26600333
+7e avenue / St-Joseph Rosemont,Rosemont - La Petite-Patrie,7,1,Saturday,14.65964231
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,5,26,Friday,13.57546062
+Union / René-Lévesque,Ville-Marie,8,3,Thursday,12.06880072
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,7,22,Saturday,13.31079778
+d'Orléans / Masson,Rosemont - La Petite-Patrie,10,27,Friday,15.79655216
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,10,18,Wednesday,11.09118415
+Maguire / Henri-Julien,Le Plateau-Mont-Royal,6,25,Sunday,12.03174194
+Maguire / Henri-Julien,Le Plateau-Mont-Royal,6,5,Monday,11.65812676
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,8,8,Tuesday,16.95868158
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,9,13,Wednesday,11.0164196
+Plessis / Ontario,Ville-Marie,9,15,Friday,11.28931856
+Ann / Wellington,Le Sud-Ouest,9,14,Thursday,14.45127468
+Lajeunesse / de Liège,Villeray - Saint-Michel - Parc-Extension,10,5,Thursday,16.14642054
+Quai de la navette fluviale,Ville-Marie,10,24,Tuesday,46.52459722
+Duluth  / St-Denis,Le Plateau-Mont-Royal,9,3,Sunday,14.02987756
+Drolet / Marie-Anne,Le Plateau-Mont-Royal,8,20,Sunday,15.34997881
+8e avenue / Everett,Villeray - Saint-Michel - Parc-Extension,8,23,Wednesday,22.74869773
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,9,20,Wednesday,10.22407402
+de la Roche / Bélanger,Rosemont - La Petite-Patrie,5,22,Monday,18.26400457
+Egan / Laurendeau,Le Sud-Ouest,7,30,Sunday,22.24861782
+Plessis / Ontario,Ville-Marie,9,4,Monday,16.6111848
+Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,8,16,Wednesday,16.80467073
+Wilderton  / Van Horne,Côte-des-Neiges - Notre-Dame-de-Grâce,9,6,Wednesday,13.11807345
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,7,8,Saturday,12.54677508
+Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,9,5,Tuesday,13.15718171
+Parc Plage,Ville-Marie,9,13,Wednesday,23.07543083
+Labadie / du Parc,Le Plateau-Mont-Royal,5,30,Tuesday,16.0974586
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,7,2,Sunday,13.79138185
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,10,3,Tuesday,13.14533257
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,7,19,Wednesday,12.81453924
+Parc Plage,Ville-Marie,9,11,Monday,30.3673825
+Larivière / de Lorimier,Ville-Marie,8,5,Saturday,14.74794261
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,7,20,Thursday,12.833
+Wolfe / Robin,Ville-Marie,8,12,Saturday,15.03246122
+Richardson / Montmorency,Le Sud-Ouest,10,4,Wednesday,17.15668907
+Boyer / St-Zotique,Rosemont - La Petite-Patrie,6,2,Friday,13.72143095
+St-André / Rachel,Le Plateau-Mont-Royal,5,15,Monday,12.27277329
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,9,24,Sunday,11.813475
+Hochelaga / de l'Assomption,Mercier - Hochelaga-Maisonneuve,10,1,Sunday,31.77156889
+Grand Boulevard / de Terrebonne,Côte-des-Neiges - Notre-Dame-de-Grâce,8,21,Monday,20.88353161
+Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),Côte-des-Neiges - Notre-Dame-de-Grâce,7,9,Sunday,14.9647067
+de Bordeaux / Masson,Le Plateau-Mont-Royal,8,10,Thursday,15.23072837
+de Kent / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,7,27,Thursday,16.40752167
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,5,21,Sunday,17.13799792
+Durocher / Beaumont,Villeray - Saint-Michel - Parc-Extension,7,10,Monday,13.16672269
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,9,6,Wednesday,11.12368815
+Wilderton  / Van Horne,Côte-des-Neiges - Notre-Dame-de-Grâce,5,28,Sunday,15.1483749
+Guy / Sainte-Catherine,Ville-Marie,7,22,Saturday,15.04698565
+de la Montagne / Sherbrooke,Ville-Marie,5,16,Tuesday,10.1287375
+St-André / Rachel,Le Plateau-Mont-Royal,7,8,Saturday,13.47774923
+Wilderton  / Van Horne,Côte-des-Neiges - Notre-Dame-de-Grâce,6,25,Sunday,16.28037465
+du Mont-Royal / Augustin-Frigon,Rosemont - La Petite-Patrie,9,27,Wednesday,12.61079966
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,7,26,Wednesday,11.42402788
+Vallières / St-Laurent,Le Plateau-Mont-Royal,5,25,Thursday,12.27741411
+St-Urbain / de la Gauchetière,Ville-Marie,8,30,Wednesday,15.15822829
+Wilderton  / Van Horne,Côte-des-Neiges - Notre-Dame-de-Grâce,5,25,Thursday,13.14165158
+Bercy / Rachel,Le Plateau-Mont-Royal,7,1,Saturday,13.7488695
+Dorion / Rachel,Le Plateau-Mont-Royal,7,4,Tuesday,13.55590047
+Grey / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,7,13,Thursday,15.61959815
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,8,23,Wednesday,13.50817863
+Wilderton  / Van Horne,Côte-des-Neiges - Notre-Dame-de-Grâce,9,24,Sunday,14.41031733
+Hélène-Baillargeon / St-Denis,Le Plateau-Mont-Royal,8,21,Monday,11.01905309
+8e avenue / Everett,Villeray - Saint-Michel - Parc-Extension,5,22,Monday,23.04436667
+de Rouen / Lespérance,Ville-Marie,6,25,Sunday,17.94618043
+Henri-Julien / de Bellechasse,Rosemont - La Petite-Patrie,9,30,Saturday,12.16606479
+de Gaspé / St-Viateur,Le Plateau-Mont-Royal,9,18,Monday,11.09227633
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,6,8,Thursday,14.75777159
+d'Orléans / Masson,Rosemont - La Petite-Patrie,8,16,Wednesday,13.76598474
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,6,9,Friday,14.48737344
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,6,19,Monday,10.87399646
+Parc Plage,Ville-Marie,7,12,Wednesday,29.22617486
+Pontiac / Gilford,Le Plateau-Mont-Royal,8,25,Friday,10.33833601
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,5,18,Thursday,12.36378021
+de Grosbois / Duchesneau,Mercier - Hochelaga-Maisonneuve,10,24,Tuesday,7.605977778
+Vallières / St-Laurent,Le Plateau-Mont-Royal,9,30,Saturday,12.93517598
+Plessis / Ontario,Ville-Marie,7,19,Wednesday,12.19282952
+Egan / Laurendeau,Le Sud-Ouest,8,6,Sunday,21.86541263
+Métro Jarry (Lajeunesse / Jarry),Villeray - Saint-Michel - Parc-Extension,5,3,Wednesday,7.912288141
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,6,6,Tuesday,11.90984207
+Richardson / Montmorency,Le Sud-Ouest,8,1,Tuesday,15.05480767
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,7,3,Monday,11.53689851
+Métro Jarry (Lajeunesse / Jarry),Villeray - Saint-Michel - Parc-Extension,5,31,Wednesday,14.14895329
+Fortune / Wellington,Le Sud-Ouest,6,19,Monday,15.2001836
+Vallières / St-Laurent,Le Plateau-Mont-Royal,6,29,Thursday,12.11842412
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,6,10,Saturday,11.11235961
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,7,11,Tuesday,14.14901021
+du Havre / de Rouen,Ville-Marie,7,7,Friday,17.18264303
+Grey / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,10,4,Wednesday,15.85761875
+Vallières / St-Laurent,Le Plateau-Mont-Royal,7,7,Friday,10.79301978
+Christophe-Colomb / St-Joseph,Le Plateau-Mont-Royal,7,24,Monday,12.39067956
+du Mont-Royal / Augustin-Frigon,Rosemont - La Petite-Patrie,10,14,Saturday,14.38165164
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,7,1,Saturday,25.67534111
+de Bordeaux / Masson,Le Plateau-Mont-Royal,10,30,Monday,10.80427068
+Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,5,30,Tuesday,19.82839506
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,9,15,Friday,11.06500097
+1ère  avenue / St-Zotique,Rosemont - La Petite-Patrie,6,20,Tuesday,14.73568864
+de Bullion / St-Joseph,Le Plateau-Mont-Royal,9,18,Monday,9.846915079
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,7,11,Tuesday,13.03777464
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,6,20,Tuesday,15.2019549
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,10,4,Wednesday,12.72732988
+de la Montagne / Sherbrooke,Ville-Marie,5,5,Friday,13.04255728
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,7,4,Tuesday,11.01531145
+Maguire / Henri-Julien,Le Plateau-Mont-Royal,5,21,Sunday,17.05729524
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,8,10,Thursday,10.31603107
+Rosemont / Viau,Rosemont - La Petite-Patrie,8,12,Saturday,19.50703687
+St-André / Rachel,Le Plateau-Mont-Royal,7,28,Friday,13.98426957
+5e avenue / Rosemont,Rosemont - La Petite-Patrie,10,9,Monday,10.82928467
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,5,26,Friday,18.08301319
+Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,10,12,Thursday,10.86311321
+Milton / Durocher,Le Plateau-Mont-Royal,10,25,Wednesday,9.827882595
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,5,25,Thursday,11.82116523
+Marché Jean-Talon (Henri-Julien / Jean-Talon),Rosemont - La Petite-Patrie,10,1,Sunday,20.90650976
+Lajeunesse / de Liège,Villeray - Saint-Michel - Parc-Extension,9,28,Thursday,16.70264026
+Guizot / St-Denis,Villeray - Saint-Michel - Parc-Extension,5,1,Monday,15.54834545
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,7,7,Friday,14.10619792
+Berri / Cherrier,Le Plateau-Mont-Royal,9,16,Saturday,11.10379983
+Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),Côte-des-Neiges - Notre-Dame-de-Grâce,5,19,Friday,13.67448953
+de Grosbois / Duchesneau,Mercier - Hochelaga-Maisonneuve,9,11,Monday,9.288198148
+Metcalfe / de Maisonneuve,Ville-Marie,5,28,Sunday,16.56403821
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,10,8,Sunday,10.47490893
+Du Quesne / de Marseille,Mercier - Hochelaga-Maisonneuve,8,16,Wednesday,12.83567857
+Metcalfe / de Maisonneuve,Ville-Marie,8,9,Wednesday,13.52747177
+Du Quesne / de Marseille,Mercier - Hochelaga-Maisonneuve,10,13,Friday,17.77818036
+Rosemont / Viau,Rosemont - La Petite-Patrie,9,9,Saturday,20.68494903
+Rose-de-Lima / Workman,Le Sud-Ouest,10,19,Thursday,10.97945135
+Duluth  / St-Denis,Le Plateau-Mont-Royal,9,21,Thursday,12.59764276
+Plessis / Ontario,Ville-Marie,5,23,Tuesday,11.0338859
+Parc St-Paul (Le Caron / Marc-Sauvalle),Le Sud-Ouest,6,1,Thursday,15.62503256
+Parc Plage,Ville-Marie,5,25,Thursday,23.5958871
+de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,5,11,Thursday,13.5937939
+Berri / Cherrier,Le Plateau-Mont-Royal,10,1,Sunday,10.12006193
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,5,25,Thursday,11.17499435
+Beaubien / 8e avenue,Rosemont - La Petite-Patrie,10,22,Sunday,10.98347105
+de Bullion / St-Joseph,Le Plateau-Mont-Royal,8,10,Thursday,9.935191315
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,10,8,Sunday,9.314492248
+Hochelaga / de l'Assomption,Mercier - Hochelaga-Maisonneuve,7,9,Sunday,14.33791806
+12e avenue / St-Zotique,Rosemont - La Petite-Patrie,7,3,Monday,15.56608743
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,5,2,Tuesday,10.52837533
+de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,7,19,Wednesday,16.52765503
+Milton / du Parc,Le Plateau-Mont-Royal,9,5,Tuesday,11.948425
+Léa-Roback / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,7,25,Tuesday,22.60863615
+1ère  avenue / St-Zotique,Rosemont - La Petite-Patrie,5,7,Sunday,14.1925906
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,8,25,Friday,16.24946594
+Christophe-Colomb / St-Joseph,Le Plateau-Mont-Royal,10,16,Monday,11.3172817
+Bourget / St-Jacques,Le Sud-Ouest,8,25,Friday,12.96759638
+Larivière / de Lorimier,Ville-Marie,10,5,Thursday,11.17888146
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,9,8,Friday,14.23547872
+5e avenue / Rosemont,Rosemont - La Petite-Patrie,8,27,Sunday,12.03980196
+Métro Bonaventure (de la Gauchetière / de la Cathédrale),Ville-Marie,7,10,Monday,9.425244715
+Du Quesne / de Marseille,Mercier - Hochelaga-Maisonneuve,5,31,Wednesday,20.18799228
+Drolet / Marie-Anne,Le Plateau-Mont-Royal,9,2,Saturday,13.33159148
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,7,23,Sunday,14.65945512
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,8,5,Saturday,15.60285794
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,10,4,Wednesday,13.55077556
+Beaubien / 8e avenue,Rosemont - La Petite-Patrie,6,7,Wednesday,12.98794818
+Grand Boulevard / de Terrebonne,Côte-des-Neiges - Notre-Dame-de-Grâce,6,27,Tuesday,19.87795571
+Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,8,1,Tuesday,11.94584831
+de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,7,8,Saturday,14.41008899
+Beaubien / 8e avenue,Rosemont - La Petite-Patrie,10,21,Saturday,12.59007847
+Grey / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,10,10,Tuesday,12.41520449
+Drolet / Marie-Anne,Le Plateau-Mont-Royal,6,19,Monday,12.86695922
+12e avenue / St-Zotique,Rosemont - La Petite-Patrie,10,28,Saturday,17.74058636
+Métro Rosemont (de St-Vallier / Rosemont),Rosemont - La Petite-Patrie,7,8,Saturday,11.5794615
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,7,24,Monday,10.38311947
+Henri-Julien / de Bellechasse,Rosemont - La Petite-Patrie,6,19,Monday,12.66318531
+Berri / Cherrier,Le Plateau-Mont-Royal,7,17,Monday,11.0050133
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,10,9,Monday,11.04104715
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,10,24,Tuesday,12.4317313
+de la Roche / Bélanger,Rosemont - La Petite-Patrie,8,2,Wednesday,15.55399249
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,9,25,Monday,11.65851865
+Rose-de-Lima / Workman,Le Sud-Ouest,6,16,Friday,12.30515952
+Metcalfe / de Maisonneuve,Ville-Marie,5,12,Friday,13.20627319
+de Kent / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,10,10,Tuesday,12.53558082
+Quai de la navette fluviale,Ville-Marie,5,12,Friday,39.30768095
+de Rouen / Hogan,Ville-Marie,8,19,Saturday,18.71366741
+Larivière / de Lorimier,Ville-Marie,8,14,Monday,12.646996
+Pontiac / Gilford,Le Plateau-Mont-Royal,10,20,Friday,8.98477972
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,6,16,Friday,12.6793901
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,5,27,Saturday,13.38296307
+Quai de la navette fluviale,Ville-Marie,5,30,Tuesday,38.29594583
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,5,17,Wednesday,14.97810741
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,7,19,Wednesday,11.28978344
+Milton / du Parc,Le Plateau-Mont-Royal,6,3,Saturday,12.35507029
+Métro Jarry (Lajeunesse / Jarry),Villeray - Saint-Michel - Parc-Extension,6,2,Friday,12.37047405
+du Havre / de Rouen,Ville-Marie,8,20,Sunday,12.87552884
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,6,12,Monday,11.06207477
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,5,20,Saturday,15.00885744
+Egan / Laurendeau,Le Sud-Ouest,7,12,Wednesday,17.34583636
+de la Côte-Ste-Catherine / Decelles,Côte-des-Neiges - Notre-Dame-de-Grâce,9,18,Monday,11.88790861
+Richardson / Montmorency,Le Sud-Ouest,8,3,Thursday,14.17385561
+du Mont-Royal / Augustin-Frigon,Rosemont - La Petite-Patrie,8,12,Saturday,14.72827952
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,5,6,Saturday,14.48142867
+Parc St-Paul (Le Caron / Marc-Sauvalle),Le Sud-Ouest,7,31,Monday,13.94837388
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,6,18,Sunday,17.46970407
+Dorion / Rachel,Le Plateau-Mont-Royal,5,22,Monday,12.59301908
+Larivière / de Lorimier,Ville-Marie,9,10,Sunday,14.01188976
+Guy / Sainte-Catherine,Ville-Marie,6,6,Tuesday,14.60533915
+Plessis / Ontario,Ville-Marie,7,2,Sunday,10.89649242
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,5,15,Monday,11.60920112
+de Kent / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,9,27,Wednesday,14.26967772
+Parc St-Paul (Le Caron / Marc-Sauvalle),Le Sud-Ouest,7,28,Friday,15.32485317
+Christophe-Colomb / St-Joseph,Le Plateau-Mont-Royal,6,5,Monday,11.53212697
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,7,17,Monday,15.10378861
+Hochelaga / de l'Assomption,Mercier - Hochelaga-Maisonneuve,6,2,Friday,29.44442955
+Duluth  / St-Denis,Le Plateau-Mont-Royal,10,15,Sunday,11.53487941
+d'Orléans / Masson,Rosemont - La Petite-Patrie,9,29,Friday,14.17191842
+1ère  avenue / St-Zotique,Rosemont - La Petite-Patrie,9,11,Monday,13.3611119
+7e avenue / St-Joseph Rosemont,Rosemont - La Petite-Patrie,8,13,Sunday,12.35790556
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,9,8,Friday,10.88609141
+Rose-de-Lima / Workman,Le Sud-Ouest,10,17,Tuesday,11.67666975
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,10,4,Wednesday,11.50071716
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,6,29,Thursday,12.50450724
+de Mentana / Marie-Anne,Le Plateau-Mont-Royal,8,2,Wednesday,11.41141988
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,10,30,Monday,10.6075543
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,5,12,Friday,11.02412665
+Molson / Beaubien,Rosemont - La Petite-Patrie,5,7,Sunday,16.10645222
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,6,28,Wednesday,15.12984528
+Grand Boulevard / de Terrebonne,Côte-des-Neiges - Notre-Dame-de-Grâce,7,22,Saturday,21.63459402
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,6,13,Tuesday,10.28298571
+Vallières / St-Laurent,Le Plateau-Mont-Royal,6,21,Wednesday,11.97671011
+Lacombe / Victoria,Côte-des-Neiges - Notre-Dame-de-Grâce,9,23,Saturday,18.60542361
+Gauthier / Papineau,Le Plateau-Mont-Royal,10,2,Monday,10.72183276
+5e avenue / Rosemont,Rosemont - La Petite-Patrie,6,29,Thursday,15.37136036
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,5,13,Saturday,11.91286061
+de Bullion / St-Joseph,Le Plateau-Mont-Royal,9,1,Friday,12.19878191
+de la Côte St-Antoine / Royal,Côte-des-Neiges - Notre-Dame-de-Grâce,9,29,Friday,16.32124354
+Hutchison / Van Horne,Le Plateau-Mont-Royal,6,29,Thursday,14.42651311
+Grey / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,8,15,Tuesday,15.13874922
+St-André / Rachel,Le Plateau-Mont-Royal,5,2,Tuesday,8.77899625
+de Grosbois / Duchesneau,Mercier - Hochelaga-Maisonneuve,7,24,Monday,10.79891778
+Berri / Cherrier,Le Plateau-Mont-Royal,6,11,Sunday,12.09248748
+Henri-Julien / de Bellechasse,Rosemont - La Petite-Patrie,6,16,Friday,14.66989524
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,9,5,Tuesday,13.22966484
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,7,24,Monday,15.00951775
+Pontiac / Gilford,Le Plateau-Mont-Royal,8,27,Sunday,13.61096884
+Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),Côte-des-Neiges - Notre-Dame-de-Grâce,10,1,Sunday,13.23170275
+Grand Boulevard / de Terrebonne,Côte-des-Neiges - Notre-Dame-de-Grâce,7,30,Sunday,16.90015095
+de la Côte St-Antoine / Royal,Côte-des-Neiges - Notre-Dame-de-Grâce,8,4,Friday,14.3758322
+Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),Côte-des-Neiges - Notre-Dame-de-Grâce,10,13,Friday,12.52499056
+Léa-Roback / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,8,10,Thursday,20.73870751
+Du Quesne / de Marseille,Mercier - Hochelaga-Maisonneuve,10,29,Sunday,14.86596786
+Maguire / Henri-Julien,Le Plateau-Mont-Royal,5,24,Wednesday,12.08124667
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,10,10,Tuesday,13.47305871
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,10,27,Friday,9.882801815
+St-André / Rachel,Le Plateau-Mont-Royal,7,11,Tuesday,11.62700267
+Beaubien / 8e avenue,Rosemont - La Petite-Patrie,8,24,Thursday,13.20119697
+du President-Kennedy / Union,Ville-Marie,10,2,Monday,11.8388348
+de Grosbois / Duchesneau,Mercier - Hochelaga-Maisonneuve,5,10,Wednesday,7.506601852
+Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,7,9,Sunday,13.74280805
+Métro Rosemont (de St-Vallier / Rosemont),Rosemont - La Petite-Patrie,8,26,Saturday,13.03676189
+Marquette / Rachel,Le Plateau-Mont-Royal,6,14,Wednesday,11.85821086
+Boyer / St-Zotique,Rosemont - La Petite-Patrie,6,30,Friday,14.03104953
+Boyer / St-Zotique,Rosemont - La Petite-Patrie,9,21,Thursday,12.99526932
+Molson / Beaubien,Rosemont - La Petite-Patrie,8,30,Wednesday,13.40918547
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,9,20,Wednesday,9.892904924
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,8,28,Monday,17.90547308
+Léa-Roback / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,8,24,Thursday,19.43524581
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,6,13,Tuesday,11.34724
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,5,5,Friday,12.32293725
+5e avenue / Rosemont,Rosemont - La Petite-Patrie,5,30,Tuesday,14.64511667
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,5,26,Friday,17.6779087
+Lajeunesse / de Liège,Villeray - Saint-Michel - Parc-Extension,7,18,Tuesday,17.70133469
+de Bullion / St-Joseph,Le Plateau-Mont-Royal,5,9,Tuesday,12.69292886
+Dorion / Rachel,Le Plateau-Mont-Royal,7,13,Thursday,15.53787891
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,5,25,Thursday,17.28155547
+St-Urbain / de la Gauchetière,Ville-Marie,7,26,Wednesday,17.40225894
+Léa-Roback / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,6,19,Monday,22.02054628
+de la Roche / Bélanger,Rosemont - La Petite-Patrie,7,29,Saturday,14.3978371
+Bercy / Rachel,Le Plateau-Mont-Royal,7,13,Thursday,13.51886667
+Larivière / de Lorimier,Ville-Marie,5,4,Thursday,10.94833567
+Boyer / St-Zotique,Rosemont - La Petite-Patrie,5,16,Tuesday,12.17673889
+Richardson / Montmorency,Le Sud-Ouest,9,10,Sunday,13.8645754
+Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,8,18,Friday,10.52693811
+de Rouen / Lespérance,Ville-Marie,6,4,Sunday,13.9165546
+8e avenue / Everett,Villeray - Saint-Michel - Parc-Extension,10,3,Tuesday,18.93240064
+de la Côte-Ste-Catherine / Decelles,Côte-des-Neiges - Notre-Dame-de-Grâce,10,16,Monday,12.66271319
+7e avenue / St-Joseph Rosemont,Rosemont - La Petite-Patrie,10,22,Sunday,8.099205072
+7e avenue / St-Joseph Rosemont,Rosemont - La Petite-Patrie,5,24,Wednesday,13.697952
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,10,26,Thursday,12.90522262
+de Kent / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,5,13,Saturday,18.55266651
+de Rouen / Lespérance,Ville-Marie,10,4,Wednesday,12.75959412
+Rose-de-Lima / Workman,Le Sud-Ouest,6,21,Wednesday,14.68440322
+de la Côte St-Antoine / Royal,Côte-des-Neiges - Notre-Dame-de-Grâce,10,11,Wednesday,12.91713081
+Guizot / St-Denis,Villeray - Saint-Michel - Parc-Extension,5,9,Tuesday,16.7829026
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,7,18,Tuesday,10.71268588
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,9,30,Saturday,31.63575524
+Plessis / Ontario,Ville-Marie,10,11,Wednesday,11.46070345
+Metcalfe / de Maisonneuve,Ville-Marie,6,25,Sunday,13.17013667
+8e avenue / Dandurand,Rosemont - La Petite-Patrie,5,6,Saturday,16.12438008
+Milton / du Parc,Le Plateau-Mont-Royal,9,21,Thursday,9.30146401
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,5,31,Wednesday,17.5358193
+de Mentana / Marie-Anne,Le Plateau-Mont-Royal,5,31,Wednesday,10.45441775
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,6,20,Tuesday,24.79057197
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,10,26,Thursday,10.87965198
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,10,17,Tuesday,11.19915235
+Hochelaga / de l'Assomption,Mercier - Hochelaga-Maisonneuve,6,24,Saturday,26.00533333
+Pontiac / Gilford,Le Plateau-Mont-Royal,8,20,Sunday,12.10472604
+Berri / Cherrier,Le Plateau-Mont-Royal,8,28,Monday,10.20141455
+de la Côte St-Antoine / Royal,Côte-des-Neiges - Notre-Dame-de-Grâce,5,17,Wednesday,10.14513803
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,7,7,Friday,14.31169548
+du President-Kennedy / Union,Ville-Marie,9,22,Friday,12.35245444
+Métro Jarry (Lajeunesse / Jarry),Villeray - Saint-Michel - Parc-Extension,9,21,Thursday,11.77666616
+8e avenue / Everett,Villeray - Saint-Michel - Parc-Extension,6,22,Thursday,15.41763667
+de Rouen / Lespérance,Ville-Marie,6,29,Thursday,12.31789
+Wolfe / Robin,Ville-Marie,5,30,Tuesday,9.888884459
+Maguire / Henri-Julien,Le Plateau-Mont-Royal,9,21,Thursday,12.41869705
+Metcalfe / de Maisonneuve,Ville-Marie,5,11,Thursday,12.04417181
+5e avenue / Rosemont,Rosemont - La Petite-Patrie,5,22,Monday,15.62018636
+Duluth  / St-Denis,Le Plateau-Mont-Royal,10,29,Sunday,10.64665704
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,7,1,Saturday,13.80621953
+Larivière / de Lorimier,Ville-Marie,6,17,Saturday,10.92520026
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,8,26,Saturday,11.75016571
+Lacombe / Victoria,Côte-des-Neiges - Notre-Dame-de-Grâce,5,11,Thursday,17.01972255
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,5,11,Thursday,14.34280601
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,6,16,Friday,12.28731145
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,10,15,Sunday,15.93536136
+de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,7,26,Wednesday,14.29571099
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,10,4,Wednesday,14.08114147
+de la Roche / Bélanger,Rosemont - La Petite-Patrie,9,27,Wednesday,14.01614634
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,8,8,Tuesday,12.27766374
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,10,8,Sunday,11.09601771
+Metcalfe / de Maisonneuve,Ville-Marie,9,11,Monday,12.67205753
+Parc Champdoré (Champdoré / de Lille),Villeray - Saint-Michel - Parc-Extension,7,22,Saturday,18.23195323
+Hélène-Baillargeon / St-Denis,Le Plateau-Mont-Royal,5,22,Monday,12.44899444
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,7,5,Wednesday,18.70739242
+Ann / Wellington,Le Sud-Ouest,5,23,Tuesday,12.42483443
+de Bordeaux / Masson,Le Plateau-Mont-Royal,9,1,Friday,12.00548841
+Milton / du Parc,Le Plateau-Mont-Royal,10,29,Sunday,12.82452132
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,9,26,Tuesday,11.57111782
+Lacombe / Victoria,Côte-des-Neiges - Notre-Dame-de-Grâce,9,21,Thursday,20.65609167
+1ère  avenue / St-Zotique,Rosemont - La Petite-Patrie,10,30,Monday,12.6005537
+Hélène-Baillargeon / St-Denis,Le Plateau-Mont-Royal,10,5,Thursday,11.65981612
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,7,31,Monday,17.53047778
+Henri-Julien / Laurier,Le Plateau-Mont-Royal,5,17,Wednesday,9.069330093
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,10,28,Saturday,12.71006394
+Marché Jean-Talon (Henri-Julien / Jean-Talon),Rosemont - La Petite-Patrie,8,29,Tuesday,17.15300158
+Parc Van Horne (de la Peltrie / de Westbury),Côte-des-Neiges - Notre-Dame-de-Grâce,10,19,Thursday,20.41984487
+Wolfe / Robin,Ville-Marie,9,20,Wednesday,12.45949788
